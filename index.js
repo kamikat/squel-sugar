@@ -20,7 +20,7 @@ var infect = function (squel) {
 var useFlavour = squel.useFlavour;
 
 squel.useFlavour = function (flavour) {
-  return infect(squel.useFlavour(flavour));
+  return infect(useFlavour.call(this, flavour));
 }
 
 module.exports = infect(squel);
