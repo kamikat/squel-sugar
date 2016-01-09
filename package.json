@@ -1,6 +1,6 @@
 {
   "name": "squel-sugar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Several syntactic sugar extension to Squel.js API",
   "main": "index.js",
   "scripts": {
