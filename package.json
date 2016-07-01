@@ -1,6 +1,6 @@
 {
   "name": "squel-sugar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Several syntactic sugar extension to Squel.js API",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kirisetsz/squel-sugar.git"
+    "url": "git://github.com/kamikat/squel-sugar.git"
   },
   "keywords": [
     "sql",
     "database",
     "squel"
   ],
-  "author": "kirisetsz <kirisetsz@gmail.com>",
+  "author": "kamikat <kirisetsz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kirisetsz/squel-sugar/issues"
+    "url": "https://github.com/kamikat/squel-sugar/issues"
   },
-  "homepage": "https://github.com/kirisetsz/squel-sugar",
+  "homepage": "https://github.com/kamikat/squel-sugar",
   "dependencies": {
     "lodash": "^3.10.1",
     "squel": "^4.2.2"
